@@ -70,3 +70,6 @@ Start the development server:
 npm run dev
 ```
 The application will be available at `http://localhost:5173`.
+
+## Contributors
+- **Parnika Pattela** ([@pattilaparnika](https://github.com/pattilaparnika))
